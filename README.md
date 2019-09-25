@@ -1,4 +1,4 @@
-Sample Assignment
+Sample Assignment (Git and processing.js School assignment)
 ================
 
 This Sample Assignment will go through a workflow that uses git, GitHub and the Sublime text editor to model professional software development.  You may find the slides beginning with 19 of the [apjavaGitHub](https://docs.google.com/presentation/d/1cZCHVE-uhjBDKu7bRKYKheRbYDhsFWKiydWx1dScvyc/edit?usp=sharing) slide presentation helpful in understanding this workflow and configuring the Sublime program. 
